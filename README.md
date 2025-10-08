@@ -36,7 +36,7 @@ It follows a sequence of 7 practical exercises to simulate real-world version co
 
 | PR No. | Description                             | Link                                                         |
 | ------ | --------------------------------------- | ------------------------------------------------------------ |
-| 1      | Merge branch `g1` → `main`              |  
+| 1      | Merge branch `g1` → `main`              | https://github.com/KajalTajne/git_practice/pull/1 
 | 2      | Forked repository PR to original `main` | https://github.com/PoojaShashikantPawar/Oasisinfobyte/pulls
 
 
@@ -55,11 +55,6 @@ git diff --staged
 git branch -a
 git remote -v
 ```
-
----
-
-## 📂 Screenshots (Optional)
-
 Include screenshots of:
 
 * Pull Request merge confirmations
@@ -68,11 +63,4 @@ Include screenshots of:
 
 ---
 
-## 👩‍💻 Author
 
-**Name:** Kajal Tajne
-
-
----
-
-Would you like me to add a **“Command Reference Appendix”** (a table of all commands used across all 7 tasks with short descriptions) at the end of the README? It makes your submission look very professional for grading or portfolio purposes.
